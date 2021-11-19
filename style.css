@@ -9,6 +9,7 @@
 body {
     width: 100%;
     background-color: hsl(204, 43%, 93%);
+    overflow: hidden;
 }
 
 section {
